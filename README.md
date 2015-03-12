@@ -1,2 +1,2 @@
 # feldspar-signal
-Signal Processing for Embedded Domain Specific Languages in Haskell
+Signal Processing extension for Feldspar
